@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Backpropagation_lib {
 
-	
+
 	int in_num, h_num, out_num, repeat;
 	double alpha;
 	
